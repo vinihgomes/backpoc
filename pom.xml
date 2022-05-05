@@ -65,8 +65,8 @@
         <version>1.7.0</version>  
         <configuration>
           <schemaVersion>V2</schemaVersion>
-          <resourceGroup>studentsystem-1651357614541-rg</resourceGroup>
-          <appName>poc-metaverso</appName>
+          <resourceGroup>teste5do5</resourceGroup>
+          <appName>poc-metaverso-maio</appName>
           <pricingTier>P1v2</pricingTier>
           <region>westeurope</region>
           <appSetings>
